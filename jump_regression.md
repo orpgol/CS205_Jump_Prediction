@@ -227,7 +227,7 @@ train = pd.get_dummies(train, columns=['exercise', 'competitive', 'gender', 'inj
 # all_data = all_data.fillna(all_data.mean())
 ```
 
-#### Plot distribution of the 'SalePrice' data after corrections
+#### Plot distribution of the 'jump' data after corrections
 
 
 ```python
