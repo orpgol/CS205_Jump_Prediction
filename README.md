@@ -15,7 +15,7 @@ Health Analytics course @ UCLA - Predicting flight time
 ```
  pip3 install tensorflow seaborn ml_metrics matplotlib
  pip3 install jupyter 
- terminal$ jupyter notebook
+ jupyter notebook
 ``` 
 Open benchmarking script in notebook
 
