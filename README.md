@@ -12,9 +12,9 @@ Health Analytics course @ UCLA - Predicting flight time
 
 
 ## Aditional dependencies for running the jump_regression.ipynb benchmark script
+```
 - pip3 install tensorflow seaborn ml_metrics matplotlib
 - pip3 install jupyter 
-```
 - Run: jupyter notebook
 ``` 
 and open benchmarking script
