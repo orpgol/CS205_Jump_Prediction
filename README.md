@@ -20,4 +20,5 @@ Health Analytics course @ UCLA - Predicting flight time
 Open benchmarking script in notebook
 
 
-### Click jump_regression.md for a markdown view of the benchmarking process
+#### Visit https://github.com/orpgol/CS205_Jump_Prediction in order to view the benchmarking process
+Click jump_regression.md for a markdown view of the benchmarking process
