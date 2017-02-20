@@ -3,9 +3,8 @@ Health Analytics course @ UCLA - Predicting flight time
 
 ## Dependencies for running lasso_predictor.py
 - In order for this script to run smoothly make sure you are running python 3.xx
-- 
 ```
-pip3 install numpy pandas scikit-learn
+- pip3 install numpy pandas scikit-learn
 ```
 - Make sure model.pkl is in the same library as the script
 - Prepare a test.csv file according to the example in this folder
@@ -14,10 +13,9 @@ pip3 install numpy pandas scikit-learn
 
 ## Aditional dependencies for running the jump_regression.ipynb benchmark script
 - pip3 install tensorflow seaborn ml_metrics matplotlib
-- pip3 install jupyter
-- Run: 
+- pip3 install jupyter 
 ```
-jupyter notebook
+- Run: jupyter notebook
 ``` 
 and open benchmarking script
 
