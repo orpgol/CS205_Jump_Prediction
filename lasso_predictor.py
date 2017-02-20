@@ -31,7 +31,7 @@ def main():
     print(lasso.score(X_test,y))
 
     res = lasso.predict(X_test)
-    print('Predicted Resutls:')
+    print('Predicted Results:')
     print(np.exp(res))
 
 
